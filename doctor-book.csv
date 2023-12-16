@@ -1,0 +1,99 @@
+body_part,organ,problem_specification,department
+head,eye,pain,eye specialist
+hand,right elbow,broken,orthopedics
+leg,right leg,broken,orthopedics
+hand,finger,broken,orthopedics
+head,mouth,tooth broken,dental
+head,ear,hearing loss,ENT
+leg,left leg,strain,physical therapy
+arm,left arm,fracture,orthopedics
+chest,heart,chest pain,cardiology
+abdomen,stomach,ulcer,gastroenterology
+head,nose,congestion,ENT
+hand,wrist,sprain,orthopedics
+leg,right leg,dislocation,orthopedics
+head,eye,blurred vision,eye specialist
+arm,right arm,burn,general surgery
+back,spine,herniated disc,neurology
+head,mouth,gum infection,dental
+leg,left leg,burn,general surgery
+arm,left arm,tennis elbow,orthopedics
+chest,lungs,shortness of breath,pulmonology
+abdomen,liver,jaundice,hepatology
+head,ear,ear infection,ENT
+hand,hand,carpal tunnel syndrome,orthopedics
+leg,right leg,sprain,orthopedics
+head,eye,redness,eye specialist
+arm,right arm,fracture,orthopedics
+back,spine,sciatica,neurology
+head,mouth,cavity,oral surgery
+leg,left leg,fracture,orthopedics
+arm,left arm,sprain,orthopedics
+chest,heart,high blood pressure,cardiology
+abdomen,stomach,food poisoning,gastroenterology
+head,nose,allergies,ENT
+hand,wrist,fracture,orthopedics
+leg,right leg,burn,general surgery
+head,eye,itchiness,eye specialist
+arm,right arm,dislocation,orthopedics
+back,spine,spinal stenosis,neurology
+head,mouth,gingivitis,dental
+leg,left leg,arthritis,rheumatology
+arm,left arm,shoulder impingement,orthopedics
+chest,lungs,asthma,pulmonology
+abdomen,kidney,kidney stones,nephrology
+head,ear,tinnitus,ENT
+hand,hand,trigger finger,orthopedics
+leg,right leg,fracture,orthopedics
+head,eye,dry eyes,eye specialist
+arm,right arm,tennis elbow,orthopedics
+back,spine,back pain,orthopedics
+head,mouth,root canal,dental
+leg,left leg,swelling,orthopedics
+arm,right arm,broken,orthopedics
+chest,heart,heart attack,cardiology
+abdomen,stomach,appendicitis,general surgery
+head,ear,earwax buildup,ENT
+hand,wrist,sprain,orthopedics
+leg,right leg,ligament tear,orthopedics
+head,eye,conjunctivitis,eye specialist
+arm,left arm,burn,general surgery
+back,spine,scoliosis,orthopedics
+head,mouth,abscess,dental
+leg,left leg,osteoporosis,orthopedics
+arm,right arm,sprain,orthopedics
+chest,lungs,pneumonia,pulmonology
+abdomen,liver,liver cirrhosis,hepatology
+head,nose,deviated septum,ENT
+hand,hand,de Quervain's tenosynovitis,orthopedics
+leg,right leg,amputation,orthopedics
+head,eye,cataract,eye specialist
+arm,right arm,rotator cuff tear,orthopedics
+back,spine,herniated disc,orthopedics
+head,mouth,oral cancer,oral surgery
+leg,left leg,ACL tear,orthopedics
+arm,left arm,fracture,orthopedics
+chest,heart,heart failure,cardiology
+abdomen,stomach,gastritis,gastroenterology
+head,ear,vertigo,ENT
+hand,wrist,carpal tunnel syndrome,orthopedics
+leg,right leg,shin splints,orthopedics
+head,eye,glaucoma,eye specialist
+arm,right arm,dislocation,orthopedics
+back,spine,vertebral fracture,orthopedics
+head,mouth,periodontitis,dental
+leg,left leg,bursitis,orthopedics
+arm,left arm,tennis elbow,orthopedics
+chest,lungs,lung cancer,pulmonology
+abdomen,kidney,renal failure,nephrology
+head,nose,sinusitis,ENT
+hand,hand,arthritis,orthopedics
+leg,right leg,hamstring strain,orthopedics
+head,eye,corneal ulcer,eye specialist
+arm,right arm,tendonitis,orthopedics
+back,spine,kyphosis,orthopedics
+head,mouth,tooth extraction,dental
+leg,left leg,meniscus tear,orthopedics
+arm,left arm,shoulder dislocation,orthopedics
+chest,heart,angina,cardiology
+abdomen,stomach,ulcerative colitis,gastroenterology
